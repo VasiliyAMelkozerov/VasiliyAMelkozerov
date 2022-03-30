@@ -16,3 +16,4 @@ _Italcs can also be used with a starting and  end underscore_
 VasiliyAMelkozerov/VasiliyAMelkozerov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![coding_2](https://user-images.githubusercontent.com/102183209/160877339-4ff6db6d-542f-44bf-9d44-ba3f26a44d4e.gif)
