@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VasiliyAMelkozerov
-- 👀 I’m interested in Data Science
+- 👀 I’m a Data Science
 - 💞️ I’m looking to collaborate on making the world a better place and making cool ideas into reality
 - 📫 How to reach me .you can send a message to <a href="https://www.linkedin.com/in/vasiliy-melkozerov/">this</a> profile.
 - I will now pull the greatest magic trick the world will know, a career change!
